@@ -18,6 +18,7 @@ release/
 # Gradle files
 .gradle/
 build/
+*/build/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -79,3 +80,16 @@ lint-baseline.xml
 
 # Signing files
 .signing/
+
+# Mac OS
+.DS_Store
+
+# Temporary files
+*~
+*.swp
+*.swo
+.*.swp
+
+# Gradle Wrapper (we keep the scripts but exclude the jar if needed)
+# Uncomment if you want to exclude the jar:
+# gradle/wrapper/gradle-wrapper.jar
