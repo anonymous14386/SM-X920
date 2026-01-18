@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Octopus Apps</string>
+    <string name="budget_tracker">Budget Tracker</string>
+    <string name="health_tracker">Health Tracker</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Main Activity -->
+    <string name="welcome_message">Welcome to Octopus Apps</string>
+    <string name="select_app">Select an app to open</string>
+    <string name="budget_description">Track subscriptions, accounts, income, and debts</string>
+    <string name="health_description">Monitor weight, exercise, food intake, and fitness goals</string>
+    
+    <!-- Settings -->
+    <string name="server_url">Server URL</string>
+    <string name="server_url_summary">URL of your server hosting the apps</string>
+    <string name="server_url_default">https://your-server.com</string>
+    <string name="budget_port">Budget App Port</string>
+    <string name="budget_port_default">3001</string>
+    <string name="health_port">Health App Port</string>
+    <string name="health_port_default">3002</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="clear_cache_summary">Clear all cached data and cookies</string>
+    <string name="cache_cleared">Cache cleared successfully</string>
+    
+    <!-- WebView -->
+    <string name="loading">Loading…</string>
+    <string name="error_loading">Error loading page</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet">No internet connection</string>
+    
+    <!-- Menu -->
+    <string name="menu_settings">Settings</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_home">Home</string>
+    
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
